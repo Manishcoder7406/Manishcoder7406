@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Software engineer and cybersecurity expert from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **manishkumar72313180@gmail.com**
 
-- ⚡ Fun fact **I think I am smart......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
